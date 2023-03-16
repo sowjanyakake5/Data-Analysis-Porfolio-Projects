@@ -32,9 +32,9 @@ Data analysis on Bike Buyers dataset using MS Excel to understand the what facto
 ### Bike-Share_CaseStudy_Using_R:
 Case study performed as a part of Google Data Analytics Certification to demonstrate my knowledge and skill learned through the course.
 Key pupose of the project is to design marketing strategies aimed at converting casual riders into annual members. Questions to considered - 
-*a. How annual members and casual riders differ?
-b.	Why casual riders would by a membership?
-c.	How digital media could affect their marketing tactics?
+* How annual members and casual riders differ?
+*	Why casual riders would by a membership?
+*	How digital media could affect their marketing tactics?
 
 ### Movie data Correlation in Python:
 
