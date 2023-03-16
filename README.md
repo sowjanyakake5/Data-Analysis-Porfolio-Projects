@@ -8,7 +8,7 @@ Performed the Exploratory Data Analysis by using SQL for data tranformation and 
 * Map showing the spread of initial first case recorded across the world.
 * Visualised a Tree Map to visualize the Top 10 vaccinated countries.
 * Donut chart is used to understand the vaccinations count in the continents.
-* Using the ranking and sets a Map visualization is made to show the top and bottom 5 countries which have started vaccinations first. 
+* Using ranking and sets, a Map visualization is made to show the top and bottom 5 countries which have started vaccinations first. 
 
 ### Hotel_dashboard_Msql_PowerBI:
 Created a visual dashboard for hotel business (based on previous 24 months historical data) using MySQL workbench and Power BI to answer the questions like,
