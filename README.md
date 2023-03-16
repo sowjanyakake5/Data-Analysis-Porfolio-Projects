@@ -50,4 +50,4 @@ Analyzed the Movie Industry Data set from Kaggle and performed the correlation a
 * Analyzing different features uisng the pairplots.
 * Asking questions about data.
 
-### Economic Analysis with Pandas:
+### Data analysis of Economic timeseries data from FRED with Pandas:data from FRED
