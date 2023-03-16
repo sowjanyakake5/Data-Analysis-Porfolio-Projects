@@ -1,5 +1,5 @@
 # Data-Analysis-Porfolio-Projects
-## SQL_Tableau_CovidDataAnalysis:
+### SQL_Tableau_CovidDataAnalysis:
 
 Msql_PowerBI_Hotel_dashboard:
 
