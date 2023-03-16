@@ -25,6 +25,9 @@ Performed the Data Analysis on the Sales history data to understand the sales in
 * Comparing Revenue of a Year with the Last Year by Profit Margin.
 
 ### Bike_Buyers_DataAnalysis_MSExcel:
+Data analysis on Bike Buyers dataset using MS Excel to understand the what factors are making which category of people to buy bikes.
+* Cleaning and transforming the data.
+* Used pivot tables and visualization for analyzing the data.
 
 ### Bike-Share_CaseStudy_Using_R:
 
