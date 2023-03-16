@@ -11,14 +11,18 @@ Performed the Exploratory Data Analysis by using SQL for data tranformation and 
 * Using the ranking and sets a Map visualization is made to show the top and bottom 5 countries which have started vaccinations first. 
 
 ### Msql_PowerBI_Hotel_dashboard:
+Created a visual dashboard using MySQL workbench and Power BI to answer the questions like,
+* Is the hotel revenue growing over period of time? 
+* Should the hotel increase parking lot size? 
+* What trends can be seen in the data?
+
+### Sales_Insights_PowerBI:
 Performed the Data Analysis on the Sales history data to understand the sales insights from the visual dashboard that can be apparent for sales team for decision making.  using the MYSql Workbench and Power BI.
 * Analysis of features based on the metrics:  KPIs, Customers, Order Date, Markets, Products, Profit Margin
 * Understanding the Top and bottom performing Customers, Markets, ProductsProfit Margin.
 * Revenue & Total Sales by Month.
 * Profit margin % by Customers, Products, Period, Markets.
 * Comparing Revenue of a Year with the Last Year by Profit Margin.
-
-### Sales_Insights_PowerBI:
 
 ### Bike_Buyers_DataAnalysis_MSExcel:
 
