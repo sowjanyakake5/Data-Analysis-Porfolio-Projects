@@ -34,12 +34,14 @@ Case study performed as a part of Google Data Analytics Certification to demonst
 Key pupose of the project is to design marketing strategies aimed at converting casual riders into annual members. Questions to considered - 
 * How annual members and casual riders differ?
 *	Why casual riders would by a membership?
-*	How digital media could affect their marketing tactics?
+*	How digitcreating the numeric representation of non numeric featuresal media could affect their marketing tactics?
 
 ### Movie data Correlation in Python:
-Analyzed the Movie Industry Data set from Kaggle and perform the correlation analysis on few features:
-* Which features are impacting the gross of the movie?
-* company, budget or genre?
+Analyzed the Movie Industry Data set from Kaggle and perform the correlation analysis using Python.
+* Cleaning the raw data using Pandas
+* Scatter plot for budget and gross features using Matplotlib and Seaborn.
+* Understanding the Correlation betweeen budget and gross by plotting a Heat Map.
+* Analyzing the non numeric features by creating the numeric representation and a heat map. 
 
 ### Roller Coaster DB analysis:
 
