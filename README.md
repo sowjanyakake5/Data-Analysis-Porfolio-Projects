@@ -52,5 +52,6 @@ Analyzed the Movie Industry Data set from Kaggle and performed the correlation a
 
 ### FRED Economic timeseries Data analysis using Pandas:
 Data scraping using Web API for pulling down the data and performed analysis in python. 
-*  Raw Data o (a stock market index in USA that tracks 500 publicly traded domestic companies.)
-* Unemployement Rate Per State
+* Pulling raw data SP500(a stock market index in USA that tracks 500 publicly traded domestic companies) using FRED API.
+* Analysis on Unemployement Rate and Participating Rate Per State.
+* Comparing the Unemployement Rate Vs Participating Rate Per State over the years using Matplotlib subplots.
