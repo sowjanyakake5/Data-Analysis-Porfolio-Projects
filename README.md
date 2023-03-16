@@ -37,7 +37,7 @@ Key pupose of the project is to design marketing strategies aimed at converting 
 *	How digitcreating the numeric representation of non numeric featuresal media could affect their marketing tactics?
 
 ### Movie data Correlation in Python:
-Analyzed the Movie Industry Data set from Kaggle and perform the correlation analysis using Python.
+Analyzed the Movie Industry Data set from Kaggle and performed the correlation analysis using Python.
 * Cleaning the raw data using Pandas
 * Scatter plot for budget and gross features using Matplotlib and Seaborn.
 * Understanding the Correlation betweeen budget and gross by plotting a Heat Map.
