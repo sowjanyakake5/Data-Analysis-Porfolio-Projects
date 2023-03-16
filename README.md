@@ -43,7 +43,7 @@ Analyzed the Movie Industry Data set from Kaggle and performed the correlation a
 * Understanding the Correlation betweeen budget and gross by plotting a Heat Map.
 * Analyzing the non numeric features by creating the numeric representation and a heat map. 
 
-### Roller Coaster DB analysis:
+### Roller Coaster DB analysis in Python:
 * Performed the data inspection and cleaning.
 * Understanding the distribution of different features (Univariant analysis).
 * Plotting features relationships.
