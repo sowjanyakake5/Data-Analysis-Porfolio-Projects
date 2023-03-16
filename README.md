@@ -17,7 +17,7 @@ Created a visual dashboard for hotel business (based on previous 24 months histo
 * What trends can be seen in the data?
 
 ### Sales_Insights_PowerBI:
-Performed the Data Analysis on the Sales history data to understand the sales insights from the visual dashboard that can be apparent for sales team for decision making.  using the MYSql Workbench and Power BI.
+Performed the Data Analysis on the Sales history data to understand the sales insights from the visual dashboard that can be apparent for sales team for decision making using the MYSql Workbench and Power BI.
 * Analysis of features based on the metrics:  KPIs, Customers, Order Date, Markets, Products, Profit Margin
 * Understanding the Top and bottom performing Customers, Markets, ProductsProfit Margin.
 * Revenue & Total Sales by Month.
