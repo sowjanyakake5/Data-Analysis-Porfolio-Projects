@@ -44,5 +44,10 @@ Analyzed the Movie Industry Data set from Kaggle and performed the correlation a
 * Analyzing the non numeric features by creating the numeric representation and a heat map. 
 
 ### Roller Coaster DB analysis:
+* Performed the data inspection and cleaning.
+* Understanding the distribution of different features (Univariant analysis).
+* Plotting features relationships.
+* Analyzing different features uisng the pairplots.
+* Asking questions about data.
 
 ### Economic Analysis with Pandas:
