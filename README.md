@@ -37,6 +37,9 @@ Key pupose of the project is to design marketing strategies aimed at converting 
 *	How digital media could affect their marketing tactics?
 
 ### Movie data Correlation in Python:
+Analyzed the Movie Industry Data set from Kaggle and perform the correlation analysis on few features:
+* Which features are impacting the gross of the movie?
+* company, budget or genre?
 
 ### Roller Coaster DB analysis:
 
