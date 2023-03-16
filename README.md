@@ -1,4 +1,4 @@
-# Data-Analysis-Porfolio-Projects
+# Summary of Data-Analysis-Porfolio-Projects
 
 ### SQL_Tableau_CovidDataAnalysis:
 Performed the Exploratory Data Analysis by using SQL for data tranformation and Tableau for Visualization on Covid-19 real time dataset from ourworldindata website. Below are the few scenarios analysed:
