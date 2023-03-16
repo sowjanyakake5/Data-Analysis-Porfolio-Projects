@@ -11,7 +11,7 @@ Performed the Exploratory Data Analysis by using SQL for data tranformation and 
 * Using the ranking and sets a Map visualization is made to show the top and bottom 5 countries which have started vaccinations first. 
 
 ### Msql_PowerBI_Hotel_dashboard:
-Created a visual dashboard using MySQL workbench and Power BI to answer the questions like,
+Created a visual dashboard for hotel business (based on previous 24 months historical data) using MySQL workbench and Power BI to answer the questions like,
 * Is the hotel revenue growing over period of time? 
 * Should the hotel increase parking lot size? 
 * What trends can be seen in the data?
